@@ -1,0 +1,21 @@
+# ModelSim / QuestaSim generated files
+work/
+*.cf
+*.wlf
+transcript
+vsim_stacktrace.vstf
+*.vstf
+
+# Simulation / synthesis artifacts
+*.vcd
+*.o
+*.cf
+xsim_results/
+*.jou
+*.log
+
+# Editor / OS noise
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
